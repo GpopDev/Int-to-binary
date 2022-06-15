@@ -1,4 +1,5 @@
 """
+Btw install the better comments extension if u are on vscode!
 TODO: Convert a number to binary representation
 # ? STATUS: Done
 """
