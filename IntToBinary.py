@@ -16,7 +16,7 @@ while follow is True:
         elif act == "n":
             follow = False
         else:
-            print("Invalid ")
+            print("Invalid letter, use Y for yes or N for no")
     except ValueError:
         print("U need to enter a number")
     
